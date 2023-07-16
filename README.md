@@ -1,6 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{mxg6}/count.svg)<!--统计访问-->
 
-### 👋👋👋Hi there Welcome to my GitHub homepage！
+# 👋I am Ma Xiaoguang~
+## 👋Welcome to my GitHub homepage！
 
 <!--
 **mxg6/mxg6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
