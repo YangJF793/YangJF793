@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{mxg6}/count.svg)<!-统计访问-->
+![Visitor Count](https://profile-counter.glitch.me/{mxg6}/count.svg)<!--统计访问-->
 
 ### 👋👋👋Hi there Welcome to my GitHub homepage！
 
