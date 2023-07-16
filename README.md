@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{mxg6}/count.svg)
+
 ### 👋👋👋Hi there Welcome to my GitHub homepage！
 
 <!--
