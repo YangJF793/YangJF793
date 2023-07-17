@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{mxg6}/count.svg)<!--统计访问-->
+<img align='right' src="https://profile-counter.glitch.me/{mxg6}/count.svg" alt="访客数量"/><!--统计访问-->
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=%F0%9F%91%8BI+am+Ma+Xiaoguang~;%F0%9F%91%8BWelcome+to+my+GitHub+homepage%EF%BC%81)](https://mxg6.github.io)<!--打字机效果-->
