@@ -9,3 +9,8 @@
   <a href="https://github.com/mxg6"><img src="https://img.shields.io/badge/GitHub-fe7300" alt="GitHub"></a>
   <a href="https://space.bilibili.com/351329498"><img src="https://img.shields.io/badge/bilibili-ff79c6" alt="bilibili"></a>
 </p>
+
+
+
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
