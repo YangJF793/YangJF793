@@ -7,6 +7,6 @@
 <p align="center">
   <a href="https://mxg6.github.io"><img src="https://img.shields.io/badge/Homepage-E0FFFF" alt="Personal homepage"></a>
   <a href="https://github.com/mxg6"><img src="https://img.shields.io/badge/GitHub-fe7300" alt="GitHub"></a>
-  <a href="https://space.bilibili.com/351329498"><img src="https://img.shields.io/badge/bilibili-ff79c6" alt="bilibili"></a>
+  
 </p>
 
